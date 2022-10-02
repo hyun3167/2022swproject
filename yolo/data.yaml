@@ -1,0 +1,5 @@
+train: content/datasets/train/images
+val: content/datasets/valid/images
+
+nc: 7
+names: ['bed', 'chair', 'diningtable',  'microwave',  'refrigerator',  'sofa','tvmonitor']
