@@ -1,11 +1,11 @@
 [
     {
-        "merged": "com.example.myapplication.app-merged_res-31:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.myapplication.app-main-33:/mipmap-hdpi/ic_launcher.webp"
-    },
-    {
         "merged": "com.example.myapplication.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "com.example.myapplication.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapplication.app-main-33:/mipmap-hdpi/ic_launcher.webp"
     },
     {
         "merged": "com.example.myapplication.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.webp.flat",

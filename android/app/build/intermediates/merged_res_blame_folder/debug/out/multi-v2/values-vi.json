@@ -4,7 +4,24 @@
             "outputFile": "com.example.myapplication.app-mergeDebugResources-29:/values-vi/values-vi.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\oo\\.gradle\\caches\\transforms-3\\28d1f8bf9c3f83b482c379086d731ea5\\transformed\\play-services-base-18.0.1\\res\\values-vi\\values.xml",
+                    "source": "C:\\Users\\2020A00155\\.gradle\\caches\\transforms-3\\8f3121de6806284e5701e10992f36679\\transformed\\play-services-basement-18.1.0\\res\\values-vi\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "123",
+                        "endOffsets": "318"
+                    },
+                    "to": {
+                        "startLines": "45",
+                        "startColumns": "4",
+                        "startOffsets": "4350",
+                        "endColumns": "127",
+                        "endOffsets": "4473"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\2020A00155\\.gradle\\caches\\transforms-3\\28d1f8bf9c3f83b482c379086d731ea5\\transformed\\play-services-base-18.0.1\\res\\values-vi\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -21,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\oo\\.gradle\\caches\\transforms-3\\b71bcb9d5f3e707c9fbb32161774bf95\\transformed\\material-1.5.0\\res\\values-vi\\values-vi.xml",
+                    "source": "C:\\Users\\2020A00155\\.gradle\\caches\\transforms-3\\b71bcb9d5f3e707c9fbb32161774bf95\\transformed\\material-1.5.0\\res\\values-vi\\values-vi.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -40,24 +57,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\oo\\.gradle\\caches\\transforms-3\\8f3121de6806284e5701e10992f36679\\transformed\\play-services-basement-18.1.0\\res\\values-vi\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "123",
-                        "endOffsets": "318"
-                    },
-                    "to": {
-                        "startLines": "45",
-                        "startColumns": "4",
-                        "startOffsets": "4350",
-                        "endColumns": "127",
-                        "endOffsets": "4473"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\oo\\.gradle\\caches\\transforms-3\\b9e9f4e2782bc2fce1b6383a10aa0b5f\\transformed\\core-1.7.0\\res\\values-vi\\values-vi.xml",
+                    "source": "C:\\Users\\2020A00155\\.gradle\\caches\\transforms-3\\b9e9f4e2782bc2fce1b6383a10aa0b5f\\transformed\\core-1.7.0\\res\\values-vi\\values-vi.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -74,7 +74,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\oo\\.gradle\\caches\\transforms-3\\0d66347f1e1b037cbcb5a4864a60cdd1\\transformed\\appcompat-1.4.1\\res\\values-vi\\values-vi.xml",
+                    "source": "C:\\Users\\2020A00155\\.gradle\\caches\\transforms-3\\0d66347f1e1b037cbcb5a4864a60cdd1\\transformed\\appcompat-1.4.1\\res\\values-vi\\values-vi.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
