@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="default_web_client_id" translatable="false">631534300543-rjiq9rt7q5qdhhahhf4hc2g00bmth36c.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://swproject-2-default-rtdb.firebaseio.com</string>
     <string name="gcm_defaultSenderId" translatable="false">631534300543</string>
     <string name="google_api_key" translatable="false">AIzaSyDsmcenHSTIJAvkiHneWcbImtbXXv2wqAo</string>
     <string name="google_app_id" translatable="false">1:631534300543:android:d19fc924f3feb913a77e4a</string>

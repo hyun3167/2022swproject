@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "631534300543",
+    "firebase_url": "https://swproject-2-default-rtdb.firebaseio.com",
     "project_id": "swproject-2",
     "storage_bucket": "swproject-2.appspot.com"
   },
@@ -10,6 +11,35 @@
         "mobilesdk_app_id": "1:631534300543:android:5184b7b0f2787d1da77e4a",
         "android_client_info": {
           "package_name": "com.example.a2022swproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631534300543-rjiq9rt7q5qdhhahhf4hc2g00bmth36c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsmcenHSTIJAvkiHneWcbImtbXXv2wqAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631534300543-rjiq9rt7q5qdhhahhf4hc2g00bmth36c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631534300543:android:d19fc924f3feb913a77e4a",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
         }
       },
       "oauth_client": [
